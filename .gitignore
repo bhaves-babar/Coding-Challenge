@@ -7,5 +7,3 @@ node_modules/
 # Ignore build or production directories (if applicable)
 build/
 
-# Ignore logs and temporary files
-*.log
